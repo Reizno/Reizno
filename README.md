@@ -43,7 +43,7 @@ TBA
 ## 📺 Find Me
 
 - YouTube: TBA
-- Twitch: [XyberByte](https://www.twitch.tv/xyberbyte)
+- Twitch: TBA
 
 😄 **Current status:** *Skill issue: currently being patched.*
 ---
