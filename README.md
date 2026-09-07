@@ -30,7 +30,7 @@ My goal is to keep learning, experimenting, and building — and eventually crea
 - Online streaming 📺
 - Matcha green lattes 🍵
 
-## 🚀 Projects
+## 🚀 Projects 
 
 Currently experimenting with my **Arduino Starter Kit**.
 
