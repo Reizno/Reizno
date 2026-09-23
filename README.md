@@ -34,6 +34,7 @@ My goal is to keep learning, experimenting, and building — and eventually crea
 ## 🚀 Projects
 
 🔎 Future Project Idea — Missing 411 & Open Science
+
 While taking NASA's Open Science Essentials for STEM course, I started thinking about how open-science ideas could be applied to a topic I'm personally interested in: Missing 411 and missing-person cases associated with national parks.
 
 I originally became interested in the project after supporting it through a financial donation. Although I've never participated directly in a research or open-science project like this, the course got me thinking about how documented cases could potentially be organized into an open, transparent dataset.
