@@ -1,4 +1,4 @@
-## Hi, I'm XyberByte 👋
+## Hi, I'm Reizno 👋
 ## About Me
 
 I'm a autodidact  who enjoys exploring technology through hands-on projects and experimentation.
