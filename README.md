@@ -31,9 +31,7 @@ My goal is to keep learning, experimenting, and building — and eventually crea
 - Matcha green lattes 🍵
 - I'm also interested in Missing 411 and the stories, cases, and mysteries surrounding unexplained disappearances.
 
-## 🚀 Projects 
-
-Currently experimenting with my **Arduino Starter Kit**.
+## 🚀 Projects
 
 🔎 Future Project Idea — Missing 411 & Open Science
 While taking NASA's Open Science Essentials for STEM course, I started thinking about how open-science ideas could be applied to a topic I'm personally interested in: Missing 411 and missing-person cases associated with national parks.
@@ -46,7 +44,7 @@ I don't know if this exact approach has already been done, so I'd first want to 
 
 For now, it's simply an idea that came from a five-minute brainstorming exercise — but it could become an interesting future project. 🌱
 
-Curious → Exploring → Learning → Building → Creating
+Curious → Experimenting →  Exploring → Learning → Building → Creating
 
 ## 📫 Contact
 
@@ -59,6 +57,5 @@ TBA
 
 😄 **Current status:** *Skill issue: currently being patched.*
 ---
-Curious → Experimenting → Learning → Building → Creating
 
 This profile is a work in progress as I continue learning, experimenting, and discovering what I want to build.
