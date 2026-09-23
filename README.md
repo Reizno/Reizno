@@ -5,7 +5,7 @@ I'm a autodidact  who enjoys exploring technology through hands-on projects and 
 
 I'm currently using an **Arduino Starter Kit** to learn the fundamentals of electronics, programming, and problem-solving while discovering how ideas can become real projects.
 
-I'm still exploring different areas of technology to find what interests me most. I'm especially curious about **energy, light, electronics, and embedded systems**.
+I'm still exploring different areas of technology to find what interests me most. I'm especially curious about **energy, light, electronics, I'm especially interested in Figma, digital design, creative coding.
 
 My goal is to keep learning, experimenting, and building — and eventually create whatever I can imagine.
 
