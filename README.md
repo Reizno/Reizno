@@ -29,7 +29,7 @@ My goal is to keep learning, experimenting, and building — and eventually crea
 - Console gaming 🎮
 - Online streaming 📺
 - Matcha green lattes 🍵
-- I'm also interested in Missing 411 and the stories, cases, and mysteries surrounding unexplained disappearances.
+- I'm also interested in Missing 411 and the stories, cases, and mysteries surrounding unexplained disappearances. 🧭🌲
 
 ## 🚀 Projects
 
