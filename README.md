@@ -1,9 +1,10 @@
 ## Hi, I'm Reizno 👋
 ## About Me
-<p align="center">
+<p align="right">
   <a href="https://www.credly.com/badges/496d4282-33d8-4122-a10a-e49578a2b022">
     <img src="nasa-open-science-essentials.png" alt="NASA Open Science Essentials" width="150">
   </a>
+</p>
 
 I'm a autodidact  who enjoys exploring technology through hands-on projects and experimentation.
 
