@@ -1,7 +1,7 @@
 ## Hi, I'm Reizno 👋
 ## About Me
 <p align="left">
-  <a href="nasa-open-science-certificate.pdf">
+  <a href="OpenScienceEssentials20260925-20-towms9.pdf">
     <img src="nasa-open-science-essentials.png" alt="NASA Open Science Essentials" width="150">
   </a>
 </p>
