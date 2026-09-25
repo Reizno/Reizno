@@ -1,7 +1,7 @@
 ## Hi, I'm Reizno 👋
 ## About Me
-<p align="left">
-  <a href="https://www.credly.com/badges/496d4282-33d8-4122-a10a-e49578a2b022">
+<p align="right">
+  <a href="nasa-open-science-certificate.pdf">
     <img src="nasa-open-science-essentials.png" alt="NASA Open Science Essentials" width="150">
   </a>
 </p>
