@@ -42,13 +42,13 @@ My goal is to keep learning, experimenting, and building — and eventually crea
 
 While taking NASA's Open Science Essentials for STEM course, I started thinking about how open-science ideas could be applied to a topic I'm personally interested in: Missing 411 and documented missing-person cases associated with national parks and other outdoor environments.
 
-I originally became interested in the topic after supporting the project through a financial donation. Although I have not participated directly in a research or open-science project, the course got me thinking about how information from documented cases could potentially be organized, analyzed, and shared using open-science principles.
+I originally became interested in the topic after supporting the project through a financial donation. Although I have not participated directly in a research or open-science project, the course got me thinking about how information from these cases could potentially be organized, analyzed, and shared using open-science principles.
 
-A possible future project could explore case timelines, last-known and recovery locations, distance traveled, elevation, terrain, environmental conditions, search information, and other documented details. An interactive map and standardized dataset could potentially provide researchers and other interested participants with another way to independently explore geographic and environmental patterns.
+A possible future project could focus specifically on documented Missing 411 cases and examine case timelines, last-known and recovery locations, distance traveled, elevation, terrain, environmental conditions, search information, and other documented details. An interactive map and standardized dataset could potentially provide researchers and other interested participants with a way to independently examine geographic and environmental patterns.
 
-I also recognize that databases and research projects involving missing-person information already exist. Therefore, I would first want to research what information and resources are currently available, how existing projects organize their data, and whether there are gaps or opportunities where an open-science approach could provide something useful.
+I know that databases and research projects involving missing-person cases already exist. However, I don't yet know whether this specific approach has been applied to the particular Missing 411 cases I am interested in, or whether these variables have been systematically combined in an open and reproducible format. I would therefore begin by researching existing databases, projects, publications, and datasets before determining whether there is a gap that I could contribute to.
 
-For now, this is simply an idea that came from a five-minute brainstorming exercise while learning about open science. I am not presenting myself as a scientist or claiming to have conducted research. I am exploring a question, learning about the existing work, and considering whether I could eventually build or contribute to something useful.
+For now, this is simply an idea that came from a five-minute brainstorming exercise while learning about open science. I am not presenting myself as a scientist or claiming to have conducted research. I am exploring a question, learning about existing work, and considering whether I could eventually build something new or contribute to an existing effort.
 
 🌱 Curious → Experimenting → Exploring → Learning → Building → Creating
 
