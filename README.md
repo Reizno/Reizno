@@ -4,8 +4,9 @@
   <a href="OpenScienceEssentials20260925-20-towms9.pdf">
     <img src="nasa-open-science-essentials.png" alt="NASA Open Science Essentials" width="150">
   </a>
-   <img src="science%20101.png" alt="Science 101" width="150">
+  <img src="nasa-open-science-101.png" alt="NASA Open Science 101" width="150">
 </p>
+
 
 I'm a autodidact  who enjoys exploring technology through hands-on projects and experimentation.
 
