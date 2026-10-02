@@ -68,7 +68,7 @@ Seeing the structure of the 1s and 0s made me curious about how numbers can cont
 
 That small observation led me down a much bigger rabbit hole. I started exploring binary representation, bytes, encoding, physical measurements, energy, wavelength (λ), change (Δ), protocols, encryption, secure communications, and the mathematical foundations that connect them.
 
-Binary Representation Examples
+### 🔢 Binary Representation Examples
 
 These are examples of how different numerical values can be represented in binary.
 
