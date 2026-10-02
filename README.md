@@ -68,6 +68,51 @@ Seeing the structure of the 1s and 0s made me curious about how numbers can cont
 
 That small observation led me down a much bigger rabbit hole. I started exploring binary representation, bytes, encoding, physical measurements, energy, wavelength (λ), change (Δ), protocols, encryption, secure communications, and the mathematical foundations that connect them.
 
+Binary Representation Examples
+
+These are examples of how different numerical values can be represented in binary.
+
+196,608
+→
+110000000000000000₂
+
+Speed of Light (c)
+
+299,792,458 m/s
+→
+10001110111100111110000101010₂
+
+Energy (Example: 256 J)
+
+256
+→
+100000000₂
+
+Wavelength (Example: λ = 8 m)
+
+8
+→
+1000₂
+
+Change (Example: Δx = 16 m)
+
+16
+→
+10000₂
+
+Concept
+Physical Quantity
+        ↓
+ Numerical Value
+        ↓
+ Binary Representation
+        ↓
+ Digital Information
+        ↓
+ Interpretation
+
+These examples are intended to illustrate how numerical values can be represented digitally. The binary values shown for energy, wavelength, and change are examples of chosen measurements rather than universal binary representations.
+
 I'm interested in understanding how mathematical representations can become meaningful digital information—and ultimately how that information can be interpreted in different ways depending on the system, context, or rules used to understand it.
 
 As I continue learning, I'm exploring how concepts from computer science, mathematics, physics, electronics, chemistry, and cryptography intersect, and how ideas from one field can inspire questions in another.
