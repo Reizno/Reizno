@@ -54,23 +54,24 @@ For now, this is simply an idea that came from a five-minute brainstorming exerc
 
 This isn't a finished project or a formal research claim. It's simply something I'm curious about and want to keep exploring.
 
-🔎 A Question That Keeps Me Curious
+💡 Ideas I'm Exploring
+One of the things that first caught my attention was a question I came across while reading the Lavabit Kickstarter FAQ:
 
-One of the things that first caught my attention was a number I came across while reading about Lavabit and secure communication: 196,608.
+Why did you pick a goal of $196,608?
 
-What stood out to me wasn't simply the number itself, but what happened when I looked at its binary representation:
+The answer explained that:
 
-196,608 → 110000000000000000
+196,608 → 110000000000000000₂
 
-The structure of the 1s and 0s made me curious about how numbers can contain patterns and how computers interpret those patterns as information.
+Seeing the structure of the 1s and 0s made me curious about how numbers can contain patterns and how computers interpret those patterns as information.
 
-That small observation led me down a much bigger rabbit hole. I started exploring binary representation, bytes, encoding, physical measurements, energy, wavelength (λ), change (Δ), protocols, encryption, and secure communications.
+That small observation led me down a much bigger rabbit hole. I started exploring binary representation, bytes, encoding, physical measurements, energy, wavelength (λ), change (Δ), protocols, encryption, secure communications, and the mathematical foundations that connect them.
 
-I'm interested in understanding how mathematical representations can become meaningful digital information—and ultimately how that information interpreted in various ways depending on the system, context, or rules used to understand it.
+I'm interested in understanding how mathematical representations can become meaningful digital information—and ultimately how that information can be interpreted in different ways depending on the system, context, or rules used to understand it.
 
-I'm curious about how these ideas connect, how they can be represented mathematically and digitally, and where that curiosity might lead me next.
+As I continue learning, I'm exploring how concepts from computer science, mathematics, physics, electronics, chemistry, and cryptography intersect, and how ideas from one field can inspire questions in another.
 
-For now, I'm simply exploring, learning, experimenting, and following the questions that catch my attention.
+This isn't a research project or a claim of expertise—it's simply a collection of ideas I'm curious about and hope to continue exploring through learning, experimentation, and hands-on projects.
 
 🌱 Curious → Experimenting → Exploring → Learning → Building → Creating
 
