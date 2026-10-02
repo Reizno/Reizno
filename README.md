@@ -54,10 +54,11 @@ For now, this is simply an idea that came from a five-minute brainstorming exerc
 
 This isn't a finished project or a formal research claim. It's simply something I'm curious about and want to keep exploring.
 
-💡 Ideas I'm Exploring
-One of the things that first caught my attention was a question I came across while reading the Lavabit Kickstarter FAQ:
+## 💡 Ideas I'm Exploring
 
-Why did you pick a goal of $196,608?
+One of the things that first caught my attention was a question I came across while reading the **Lavabit Kickstarter FAQ**:
+
+> **Why did you pick a goal of $196,608?**
 
 The answer explained that:
 
