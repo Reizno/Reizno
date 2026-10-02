@@ -52,6 +52,25 @@ I know that databases and research projects involving missing-person cases alrea
 
 For now, this is simply an idea that came from a five-minute brainstorming exercise while learning about open science. I am not presenting myself as a scientist or claiming to have conducted research. I am exploring a question, learning about existing work, and considering whether I could eventually build something new or contribute to an existing effort.
 
+This isn't a finished project or a formal research claim. It's simply something I'm curious about and want to keep exploring.
+
+🔎 Where My Curiosity Started
+One of the things that first caught my attention was a number I came across while reading about Lavabit and secure communication: 196,608.
+
+What stood out to me wasn't simply the number itself, but what happened when I looked at its binary representation:
+
+196,608 → 110000000000000000
+
+The structure of the 1s and 0s made me curious about how numbers can contain patterns and how computers interpret those patterns as information.
+
+That small observation led me down a much bigger rabbit hole. I started exploring binary representation, bytes, encoding, physical measurements, energy, wavelength (λ), change (Δ), protocols, encryption, and secure communications.
+
+I'm interested in understanding how mathematical representations can become meaningful digital information—and ultimately how that information interpreted in various ways depending on the system, context, or rules used to understand it.
+
+I'm curious about how these ideas connect, how they can be represented mathematically and digitally, and where that curiosity might lead me next.
+
+For now, I'm simply exploring, learning, experimenting, and following the questions that catch my attention.
+
 🌱 Curious → Experimenting → Exploring → Learning → Building → Creating
 
 ## 📫 Contact
