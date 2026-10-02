@@ -54,7 +54,8 @@ For now, this is simply an idea that came from a five-minute brainstorming exerc
 
 This isn't a finished project or a formal research claim. It's simply something I'm curious about and want to keep exploring.
 
-🔎 Where My Curiosity Started
+🔎 A Question That Keeps Me Curious
+
 One of the things that first caught my attention was a number I came across while reading about Lavabit and secure communication: 196,608.
 
 What stood out to me wasn't simply the number itself, but what happened when I looked at its binary representation:
