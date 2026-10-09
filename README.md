@@ -57,7 +57,7 @@ For now, this is simply an idea that came from a five-minute brainstorming exerc
 This isn't a finished project or a formal research claim. It's simply something I'm curious about and want to keep exploring.
 
 
-🔬 Open Science — Persistent Sensory Experience and Perceived Energy
+### 🔬 Open Science — Persistent Sensory Experience and Perceived Energy
 A personal open-science project exploring a persistent bodily sensory experience that I perceive as energy or an energy-like sensation.
 
 My goal is to approach this experience with scientific curiosity and an open mind, investigating whether relevant physical or physiological correlates can be objectively measured under controlled conditions.
@@ -68,7 +68,7 @@ This is an early-stage investigation. I have not established a cause or confirme
 
 Status: Research planning and literature review.
 
-View the full research project
+[View the full research project](https://github.com/Reizno/open-science-sensory-investigation)
 
 ## 💡 Ideas I'm Exploring
 
