@@ -56,6 +56,21 @@ For now, this is simply an idea that came from a five-minute brainstorming exerc
 
 This isn't a finished project or a formal research claim. It's simply something I'm curious about and want to keep exploring.
 
+
+## 🔬 Open Science — Persistent Sensory Experience and Perceived Energy
+
+A personal open-science project exploring a persistent bodily sensory experience that I perceive as energy or an energy-like sensation.
+
+My goal is to approach this experience with scientific curiosity and an open mind, investigating whether relevant physical or physiological correlates can be objectively measured under controlled conditions.
+
+I am independently exploring relevant scientific literature, potential measurement methods, and experimental design while seeking guidance from professors, researchers, and laboratory specialists.
+
+This is an early-stage investigation. I have not established a cause or confirmed the existence of a corresponding physical signal. I aim to document the process transparently, evaluate evidence critically, learn through independent investigation, and welcome constructive scientific feedback. 
+
+### Status: Research planning and literature review.
+
+View the full research project
+
 ## 💡 Ideas I'm Exploring
 
 One of the things that first caught my attention was a question I came across while reading the **Lavabit Kickstarter FAQ**:
